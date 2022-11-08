@@ -1,0 +1,50 @@
+#title {
+    background-color: blue;
+    color: #fff;
+    width: 260px;
+    text-align: center;
+}
+.text {
+    width: 350px;
+    height: 300px;
+    background-color: rgb(114, 188, 44);
+    color: #333;
+}
+.box {
+    display: flex;
+}
+#random {
+  background-color: rgb(64, 35, 11);
+  color: #fff;
+  width: 200px;
+  height: 100px;
+  margin-top: 10px;
+  font-size: 30px;
+}
+.result {
+    background-color: rgba(225, 54, 54, 0.511);
+    width: 80px;
+    height: 100px;
+    margin: 10px
+}
+
+.crystal-boxs {
+    display: flex;
+}
+
+.crystal-boxs img {
+    width: 70px;
+    height: 70px;
+    margin: 0px 5px 0px 0px;
+}
+.score {
+    background-color: red;
+    width: 200px;
+}
+#total-score {
+    background-color: red;
+    width: 200px;
+    height: 100px;
+    margin-top: 10px;
+    font-size: 30px;
+}
